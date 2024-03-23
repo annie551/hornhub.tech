@@ -13,7 +13,7 @@ app.layout = html.Div(
             "hello",
         ),
     ],
-    id = "hello",
+    id="hello",
 )
 
 if __name__=="__main__":
